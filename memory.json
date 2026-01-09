@@ -1,0 +1,86 @@
+[
+  {
+    "process_id": "loan_approval",
+    "step": "credit_check",
+    "status": "blocked",
+    "metadata": {
+      "owner": "risk_team"
+    },
+    "timestamp": "2026-01-09T18:44:51.191585"
+  },
+  {
+    "process_id": "loan_approval",
+    "step": "credit_check",
+    "status": "blocked",
+    "metadata": {
+      "owner": "risk_team"
+    },
+    "timestamp": "2026-01-09T18:44:51.191585"
+  },
+  {
+    "process_id": "loan_approval",
+    "step": "credit_check",
+    "status": "blocked",
+    "metadata": {
+      "owner": "risk_team"
+    },
+    "timestamp": "2026-01-09T18:50:37.628446"
+  },
+  {
+    "process_id": "loan_approval",
+    "step": "credit_check",
+    "status": "blocked",
+    "metadata": {
+      "owner": "risk_team"
+    },
+    "timestamp": "2026-01-09T18:56:12.636755"
+  },
+  {
+    "process_id": "loan_approval",
+    "step": "credit_check",
+    "status": "blocked",
+    "metadata": {
+      "owner": "risk_team"
+    },
+    "timestamp": "2026-01-09T19:04:07.852763"
+  },
+  {
+    "process_id": "loan_approval",
+    "step": "credit_check",
+    "status": "blocked",
+    "metadata": {
+      "owner": "risk_team",
+      "reason": "income documents missing"
+    },
+    "timestamp": "2026-01-09T19:21:13.942195"
+  },
+  {
+    "process_id": "loan_approval",
+    "step": "manager_approval",
+    "status": "delayed",
+    "metadata": {
+      "owner": "branch_manager",
+      "reason": "manager on leave"
+    },
+    "timestamp": "2026-01-09T19:21:13.942195"
+  },
+  {
+    "process_id": "loan_approval",
+    "step": "manager_approval",
+    "status": "delayed",
+    "metadata": {
+      "owner": "branch_manager",
+      "reason": "manager on leave"
+    },
+    "timestamp": "2026-01-09T19:21:13.942195"
+  },
+  {
+    "process_id": "loan_approval",
+    "step": "fund_disbursement",
+    "status": "completed",
+    "metadata": {
+      "owner": "finance_team"
+    },
+    "timestamp": "2026-01-09T19:21:13.942195"
+  }
+]
