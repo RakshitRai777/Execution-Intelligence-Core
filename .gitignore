@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Runtime memory
+memory.json
+
+# Python cache
+__pycache__/
+*.pyc
